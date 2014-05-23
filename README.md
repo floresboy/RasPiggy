@@ -21,5 +21,9 @@
 			<li style="box-sizing: border-box; margin-top: 15px; margin-right: 0px; margin-left: 0px; color: rgb(51, 51, 51); font-family: Helvetica, arial, freesans, clean, sans-serif; font-size: 15px; line-height: 25px; margin-bottom: 0px !important;">
 				a user controlable LED</li>
 		</ul>
+		<p style="box-sizing: border-box; margin-top: 15px; margin-right: 0px; margin-left: 0px; color: rgb(51, 51, 51); font-family: Helvetica, arial, freesans, clean, sans-serif; font-size: 15px; line-height: 25px; margin-bottom: 0px !important;">
+			In this repository you will find all the software and infromation to deploy RasPiggy quick and easy.</p>
+		<p style="box-sizing: border-box; margin-top: 15px; margin-right: 0px; margin-left: 0px; color: rgb(51, 51, 51); font-family: Helvetica, arial, freesans, clean, sans-serif; font-size: 15px; line-height: 25px; margin-bottom: 0px !important;">
+			&nbsp;</p>
 	</body>
 </html>
